@@ -1,2 +1,2 @@
-# Gambler-s-Ruin
+# Gamblers-Ruin
 Gambler’s ruin is the process of tracking the financial status of a persistent gambler with finite wealth, playing a fair game. It indicates that eventually the gambler will go broke against an opponent with infinite wealth. This scenario is modeled by a ‘random walk’ using python. The simulations would prove that the persistent gambler would go broke if he continues to play forever. 
